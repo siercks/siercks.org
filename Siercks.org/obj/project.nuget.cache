@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iN4FvYMPFkY6xLBkPTH2YvwQfYkRGH8svz38t/pjnpgkfxr1bihSV/A6KImvGaEOMJP/Mp0Tz7si8LHMUE5C9A==",
+  "dgSpecHash": "Mv8V+yXC42ObJg45/9p8pxIDJsfskjk2qS+XXi3yNG6hIuyki/zcAJwjfcMM1YZLtckhVz7kTg7Hmssd9+ZirQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks.org\\Siercks.org.csproj",
   "expectedPackageFiles": [
@@ -32,8 +32,7 @@
     "C:\\Users\\siercks\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\siercks\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\siercks\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\siercks\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\siercks\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.11\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.11.nupkg.sha512"
+    "C:\\Users\\siercks\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
