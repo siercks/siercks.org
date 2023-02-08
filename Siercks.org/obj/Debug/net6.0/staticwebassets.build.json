@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Wqk7E3jlcbhmy8krMRhW9ur44/q95NuYeJgxoOXDDec=",
+  "Hash": "9VgzZHA2w7YTMpJeb+Nj26DhK5O7Mm5Ij4BjCtRzyTE=",
   "Source": "Siercks.org",
   "BasePath": "/",
   "Mode": "Root",
@@ -7087,23 +7087,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\IMG-6661alt.png"
-    },
-    {
-      "Identity": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks.org\\wwwroot\\index.html",
-      "SourceId": "Siercks.org",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks.org\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "index.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
       "Identity": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks.org\\wwwroot\\sample-data\\weather.json",

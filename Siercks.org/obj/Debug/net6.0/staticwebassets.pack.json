@@ -73,10 +73,6 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks.org\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
-    },
-    {
       "Id": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks.org\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
