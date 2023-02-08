@@ -2,14 +2,20 @@
     position: relative;
     display: flex;
     flex-direction: column;
+    font-family: Garamond;
 }
 
 main {
     flex: 1;
 }
-
+.profile {
+    width: 40%;
+    border-radius: 25%;
+    margin-bottom: 1rem;
+    float: right;
+}
 .sidebar {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-image: linear-gradient(270deg, #8E0C3A 20%, #FFC72C 190%);
 }
 
 .top-row {

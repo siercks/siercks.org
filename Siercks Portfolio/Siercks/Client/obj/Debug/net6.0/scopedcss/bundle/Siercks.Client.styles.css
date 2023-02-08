@@ -3,14 +3,20 @@
     position: relative;
     display: flex;
     flex-direction: column;
+    font-family: Garamond;
 }
 
 main[b-n9r25je8rw] {
     flex: 1;
 }
-
+.profile[b-n9r25je8rw] {
+    width: 40%;
+    border-radius: 25%;
+    margin-bottom: 1rem;
+    float: right;
+}
 .sidebar[b-n9r25je8rw] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-image: linear-gradient(270deg, #8E0C3A 20%, #FFC72C 190%);
 }
 
 .top-row[b-n9r25je8rw] {
@@ -87,7 +93,8 @@ main[b-n9r25je8rw] {
 
 .top-row[b-ebp09g62w9] {
     height: 3.5rem;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0, 0, 0, 0.0001);
+    display: table-header-group;
 }
 
 .navbar-brand[b-ebp09g62w9] {

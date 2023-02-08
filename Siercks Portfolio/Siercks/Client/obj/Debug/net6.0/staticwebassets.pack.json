@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\Siercks.Client.styles.css"
     },
     {
+      "Id": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks Portfolio\\Siercks\\Client\\wwwroot\\IMG-6661alt.png",
+      "PackagePath": "staticwebassets\\IMG-6661alt.png"
+    },
+    {
       "Id": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks Portfolio\\Siercks\\Client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
@@ -71,6 +75,10 @@
     {
       "Id": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks Portfolio\\Siercks\\Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks Portfolio\\Siercks\\Client\\wwwroot\\sbs logo-05.png",
+      "PackagePath": "staticwebassets\\sbs logo-05.png"
     },
     {
       "Id": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks Portfolio\\Siercks\\Client\\wwwroot\\style.css",

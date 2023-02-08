@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3C1eHyTUaoO9jbVhVfYuNWUuKB6fFnGkXCLYOMCdfAk=",
+  "Hash": "ntrUd/+VKBbx+YaaTkdn6mweqkaUqVKgS7NS7+VQR70=",
   "Source": "Siercks.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -7140,6 +7140,23 @@
       "OriginalItemSpec": "wwwroot\\icon-192.png"
     },
     {
+      "Identity": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks Portfolio\\Siercks\\Client\\wwwroot\\IMG-6661alt.png",
+      "SourceId": "Siercks.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks Portfolio\\Siercks\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "IMG-6661alt.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG-6661alt.png"
+    },
+    {
       "Identity": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks Portfolio\\Siercks\\Client\\wwwroot\\index.html",
       "SourceId": "Siercks.Client",
       "SourceType": "Discovered",
@@ -7155,6 +7172,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks Portfolio\\Siercks\\Client\\wwwroot\\sbs logo-05.png",
+      "SourceId": "Siercks.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks Portfolio\\Siercks\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "sbs logo-05.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sbs logo-05.png"
     },
     {
       "Identity": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\Siercks Portfolio\\Siercks\\Client\\wwwroot\\style.css",

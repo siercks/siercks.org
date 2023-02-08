@@ -3,7 +3,7 @@
     display: flex;
     flex-direction: column;
     font-family: Garamond;
-    background-color: #8C1D40;
+    background-color: #8E0C3A;
     color: white;
 }
 
@@ -11,7 +11,7 @@ img {
     width: auto;
 }
 .profile {
-    width: 50%;
+    width: 40%;
     border-radius: 25%;
     margin-bottom: 1rem;
     float: right;
@@ -23,12 +23,12 @@ img {
 }
 main {
     flex: 1;
-    background-color: #8C1D40;
+    background-color: #8E0C3A;
 }
 .mainblurb {
     flex: 1;
     color: white;
-    background-color: #8C1D40;
+    background-color: #8E0C3A;
 }
 
 .sidebar {
@@ -36,7 +36,7 @@ main {
 }
 
 .top-row {
-    background-color: #f7f7f7;
+    background-color: #8E0C3A;
     border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
     height: 3.5rem;

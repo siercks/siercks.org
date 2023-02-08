@@ -4,7 +4,8 @@
 
 .top-row[b-ebp09g62w9] {
     height: 3.5rem;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0, 0, 0, 0.0001);
+    display: table-header-group;
 }
 
 .navbar-brand[b-ebp09g62w9] {
