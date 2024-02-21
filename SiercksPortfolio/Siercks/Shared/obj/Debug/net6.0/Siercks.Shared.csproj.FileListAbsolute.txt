@@ -10,3 +10,15 @@ C:\Users\siercks\Documents\GitHub\siercks\Siercks Portfolio\Siercks\Shared\obj\D
 C:\Users\siercks\Documents\GitHub\siercks\Siercks Portfolio\Siercks\Shared\obj\Debug\net6.0\refint\Siercks.Shared.dll
 C:\Users\siercks\Documents\GitHub\siercks\Siercks Portfolio\Siercks\Shared\obj\Debug\net6.0\Siercks.Shared.pdb
 C:\Users\siercks\Documents\GitHub\siercks\Siercks Portfolio\Siercks\Shared\obj\Debug\net6.0\ref\Siercks.Shared.dll
+C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Shared\bin\Debug\net6.0\Siercks.Shared.deps.json
+C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Shared\bin\Debug\net6.0\Siercks.Shared.dll
+C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Shared\bin\Debug\net6.0\Siercks.Shared.pdb
+C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Shared\obj\Debug\net6.0\Siercks.Shared.csproj.AssemblyReference.cache
+C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Shared\obj\Debug\net6.0\Siercks.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Shared\obj\Debug\net6.0\Siercks.Shared.AssemblyInfoInputs.cache
+C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Shared\obj\Debug\net6.0\Siercks.Shared.AssemblyInfo.cs
+C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Shared\obj\Debug\net6.0\Siercks.Shared.csproj.CoreCompileInputs.cache
+C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Shared\obj\Debug\net6.0\Siercks.Shared.dll
+C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Shared\obj\Debug\net6.0\refint\Siercks.Shared.dll
+C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Shared\obj\Debug\net6.0\Siercks.Shared.pdb
+C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Shared\obj\Debug\net6.0\ref\Siercks.Shared.dll
