@@ -197,14 +197,14 @@
       "netstandard.dll": "sha256-yWufW5W4SSfjocBcWTEDqnFwTd\/VYtLMc2Y9mPmlggc=",
       "System.Private.CoreLib.dll": "sha256-H009wzPwRoDZlwvpN4KLCsUwN7Y1AmjKB3PIEHA7ObQ=",
       "Siercks.Shared.dll": "sha256-+2C6wdTtCksIzBjIJ0Yo+OvKWyUu10keDoYQnIHrT9g=",
-      "Siercks.Client.dll": "sha256-7qDkAtnf10s2SKS67daSMYC8Xu5L5guJbAIF0Vq9cAw="
+      "Siercks.Client.dll": "sha256-Sutmt7QeRHvSZdKoEcgdjoDya61LXxJ4i3IZu6kS6DY="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "Siercks.Shared.pdb": "sha256-Bg5xYepiIvNLWUFtTb7nFfKkJNz8wb6Sxkqc\/zMFaWY=",
-      "Siercks.Client.pdb": "sha256-Ro2prERth3XmcjpwY8e+GoorHFAU0vr3QL1JJG+RWaQ="
+      "Siercks.Client.pdb": "sha256-OqOldUe8Ja3fyffCr3erN8yUdDUUo2Htj6bdCZkHIAg="
     },
     "runtime": {
       "dotnet.6.0.11.egvp60nq9h.js": "sha256-F30V+6jU3jwJYFZoLuwMAqzTiOXu6q7zGgOdjYBofDI=",

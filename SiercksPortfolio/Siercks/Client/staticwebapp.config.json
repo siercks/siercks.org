@@ -3,9 +3,14 @@
     "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=_CHANGE_ME;Trusted_Connection=True;MultipleActiveResultSets=true"
   }
   {
+    "navigationFallback": {
+      "rewrite": "/index.html"
+    }
+  }
+  {
     "routes": {
-      "/": "index.razor",
-      "/*": "index.razor"
+      "route": "./*",
+      "rewrite": "index.razor"
     },
     "globalHeaders": {
       "Content-Type": "text/html; charset=utf-8"

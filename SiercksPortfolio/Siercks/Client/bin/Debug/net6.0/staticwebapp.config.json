@@ -4,11 +4,34 @@
   }
   {
     "routes": {
-      "/": "index.html",
-      "/*": "index.html"
+      "route": "./*",
+      "rewrite": "index.razor"
     },
     "globalHeaders": {
       "Content-Type": "text/html; charset=utf-8"
+    }
+  }
+  {
+    "navigationFallback": {
+      "rewrite": "/index.html",
+      "exclude": [ "/images/*.{png,jpg,gif}", "/css/*" ]
+    }
+  }
+  {
+    "responseOverrides": {
+      "400": {
+        "rewrite": "/"
+      },
+      "401": {
+        "statusCode": 302,
+        "redirect": "/"
+      },
+      "403": {
+        "rewrite": "/custom-forbidden-page.html"
+      },
+      "404": {
+        "rewrite": "/counter"
+      }
     }
   }
 }
