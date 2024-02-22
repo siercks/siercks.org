@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siercks.Server", "Server\Siercks.Server.csproj", "{136498A0-E5D6-4B0E-B5D0-C9C4B5744753}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Siercks.Client", "Client\Siercks.Client.csproj", "{4DF59475-837B-4C0B-82A4-DADC3434C80C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siercks.Client", "Client\Siercks.Client.csproj", "{4DF59475-837B-4C0B-82A4-DADC3434C80C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siercks.Shared", "Shared\Siercks.Shared.csproj", "{E57A7206-377A-4557-95D0-714DE514ED57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Siercks.Shared", "Shared\Siercks.Shared.csproj", "{E57A7206-377A-4557-95D0-714DE514ED57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{136498A0-E5D6-4B0E-B5D0-C9C4B5744753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{136498A0-E5D6-4B0E-B5D0-C9C4B5744753}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{136498A0-E5D6-4B0E-B5D0-C9C4B5744753}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{136498A0-E5D6-4B0E-B5D0-C9C4B5744753}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4DF59475-837B-4C0B-82A4-DADC3434C80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4DF59475-837B-4C0B-82A4-DADC3434C80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DF59475-837B-4C0B-82A4-DADC3434C80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
