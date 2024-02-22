@@ -1654,3 +1654,4 @@ C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\obj\De
 C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\obj\Debug\net6.0\refint\Siercks.Client.dll
 C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\obj\Debug\net6.0\Siercks.Client.pdb
 C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\obj\Debug\net6.0\ref\Siercks.Client.dll
+C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\bin\Debug\net6.0\staticwebapp.config.json

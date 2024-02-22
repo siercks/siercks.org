@@ -1,0 +1,14 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=_CHANGE_ME;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+  {
+    "routes": {
+      "/": "index.html",
+      "/*": "index.html"
+    },
+    "globalHeaders": {
+      "Content-Type": "text/html; charset=utf-8"
+    }
+  }
+}
