@@ -4,8 +4,8 @@
   }
   {
     "routes": {
-      "/": "index.html",
-      "/*": "index.html"
+      "/": "index.razor",
+      "/*": "index.razor"
     },
     "globalHeaders": {
       "Content-Type": "text/html; charset=utf-8"
