@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = Siercks.Shared
 build_property.ProjectDir = C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Shared\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
