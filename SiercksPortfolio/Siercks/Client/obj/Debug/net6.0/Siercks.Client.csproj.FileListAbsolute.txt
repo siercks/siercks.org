@@ -1655,3 +1655,5 @@ C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\obj\De
 C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\obj\Debug\net6.0\compressed\ebxv98653i.gz
 C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\obj\Debug\net6.0\compressed\uji5zuu4c3.gz
 C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\obj\Debug\net6.0\Siercks..CDE4584C.Up2Date
+C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\bin\Debug\net6.0\Prerender\package.json
+C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\obj\Debug\net6.0\scopedcss\Shared\NavMenuVert.razor.rz.scp.css

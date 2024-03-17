@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\shared\\navmenuvert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\shared\\navmenuvert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -15,24 +23,16 @@
       "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E57A7206-377A-4557-95D0-714DE514ED57}|Shared\\Siercks.Shared.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\shared\\siercks.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E57A7206-377A-4557-95D0-714DE514ED57}|Shared\\Siercks.Shared.csproj|solutionrelative:shared\\siercks.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\staticwebapp.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\staticwebapp.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\pages\\projects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\pages\\projects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,10 +47,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         },
@@ -61,100 +57,106 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "Client\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\index.html",
-              "RelativeToolTip": "Client\\wwwroot\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAD/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-03-13T20:18:02.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainLayout.razor.css",
-              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\MainLayout.razor.css",
-              "RelativeDocumentMoniker": "Client\\Shared\\MainLayout.razor.css",
-              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\MainLayout.razor.css",
-              "RelativeToolTip": "Client\\Shared\\MainLayout.razor.css",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAADgAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-11T19:09:53.262Z",
+              "Title": "NavMenuVert.razor",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\NavMenuVert.razor",
+              "RelativeDocumentMoniker": "Client\\Shared\\NavMenuVert.razor",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\NavMenuVert.razor",
+              "RelativeToolTip": "Client\\Shared\\NavMenuVert.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T19:48:23.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\style.css",
-              "RelativeDocumentMoniker": "Client\\style.css",
-              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\style.css",
-              "RelativeToolTip": "Client\\style.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Client\\Shared\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\MainLayout.razor.css",
+              "RelativeToolTip": "Client\\Shared\\MainLayout.razor.css",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAFgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-11T19:08:59.421Z"
+              "WhenOpened": "2024-03-17T19:18:09.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NavMenu.razor.css",
-              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\NavMenu.razor.css",
-              "RelativeDocumentMoniker": "Client\\Shared\\NavMenu.razor.css",
-              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\NavMenu.razor.css",
-              "RelativeToolTip": "Client\\Shared\\NavMenu.razor.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-02-20T03:03:24.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "Client\\Shared\\NavMenu.razor",
               "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\NavMenu.razor",
               "RelativeToolTip": "Client\\Shared\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-20T03:03:24.182Z"
+              "WhenOpened": "2024-03-14T21:59:25.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Client\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Client\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T22:31:21.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Client\\Shared\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\NavMenu.razor.css",
+              "RelativeToolTip": "Client\\Shared\\NavMenu.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-14T21:36:34.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Program.cs",
-              "RelativeDocumentMoniker": "Client\\Program.cs",
-              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Program.cs",
-              "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T14:52:20.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Projects.razor",
-              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Pages\\Projects.razor",
-              "RelativeDocumentMoniker": "Client\\Pages\\Projects.razor",
-              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Pages\\Projects.razor",
-              "RelativeToolTip": "Client\\Pages\\Projects.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-20T03:03:23.968Z"
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwAUAAAC4+wAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-17T17:50:53.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "staticwebapp.config.json",
-              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\staticwebapp.config.json",
-              "RelativeDocumentMoniker": "Client\\staticwebapp.config.json",
-              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\staticwebapp.config.json",
-              "RelativeToolTip": "Client\\staticwebapp.config.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-22T02:26:59.579Z"
+              "Title": "Siercks.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Shared\\Siercks.Shared.csproj",
+              "RelativeDocumentMoniker": "Shared\\Siercks.Shared.csproj",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Shared\\Siercks.Shared.csproj",
+              "RelativeToolTip": "Shared\\Siercks.Shared.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-17T17:41:02.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\style.css",
+              "RelativeDocumentMoniker": "Client\\wwwroot\\style.css",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\style.css",
+              "RelativeToolTip": "Client\\wwwroot\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-14T21:58:27.818Z",
+              "EditorCaption": ""
             }
           ]
         }
