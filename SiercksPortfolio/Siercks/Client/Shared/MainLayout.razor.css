@@ -4,11 +4,13 @@
     flex-direction: column;
     font-family: Garamond;
     background-color: #8E0C3A;
+    font-size: 18px;
 }
 
 main {
-    /*flex: 1;*/
-    margin-right: 10px;
+    flex: 1;
+    /*margin-right: 10px;*/
+    margin-top: 50px;
 }
 .profile {
     width: 40%;
@@ -63,7 +65,7 @@ main {
 
     header {
         position: sticky;
-        padding: 0px 20px 0px;
+        /*padding: 0px 20px 0px;*/
     }
 
     .top-row.auth {
@@ -95,8 +97,12 @@ main {
     }
   
     header{
-        display: none;
-        
+        /*display: none;*/
+        width: 100%;
+        position: fixed;
+        z-index: 1000;
+        top: 0;
+        left: 0;
     }
 
     .top-row {
