@@ -10,10 +10,11 @@
 main {
     flex: 1;
     /*margin-right: 10px;*/
-    margin-top: 50px;
+    margin-top: 30px;
+    background-color: #8E0C3A;
 }
 .profile {
-    width: 40%;
+    width: 20%;
     border-radius: 25%;
     margin-bottom: 1rem;
     float: right;
@@ -53,6 +54,7 @@ main {
 
 @media (max-width: 640.98px) {
     .page {
+        background-color: #8E0C3A;
         min-height: 100vh; /* Set minimum height to 100% of viewport height */
     }
     .top-row:not(.auth) {
@@ -63,8 +65,17 @@ main {
         display: none;
     }
 
+    .profile{
+        width:50%;
+    }
+
+    main{
+        margin-top:10px;
+    }
+
     header {
         position: sticky;
+        margin:0px;
         /*padding: 0px 20px 0px;*/
     }
 

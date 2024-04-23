@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Siercks.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a1d943b16f6d50dddd18f1ef359edededa02a2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e404ca7eff88d966c6a2796de84357c6ed81f81f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Siercks.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Siercks.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
