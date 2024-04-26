@@ -1482,7 +1482,6 @@ C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\obj\De
 C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\obj\Debug\net6.0\compressed\uji5zuu4c3.gz
 C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\obj\Debug\net6.0\Siercks..CDE4584C.Up2Date
 C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\bin\Debug\net6.0\Prerender\package.json
-C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\obj\Debug\net6.0\scopedcss\Shared\NavMenuVert.razor.rz.scp.css
 C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.28.achu79wikm.js
 C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.28.achu79wikm.js.gz
 C:\Users\siercks\Documents\GitHub\siercks\SiercksPortfolio\Siercks\Client\obj\Debug\net6.0\compressed\j1zriv2ao7.gz
