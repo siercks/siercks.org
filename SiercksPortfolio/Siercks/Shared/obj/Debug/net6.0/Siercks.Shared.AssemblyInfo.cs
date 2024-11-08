@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Siercks.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10da691e5a0ba8b120c97ac2511de2c364ef1bb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6aa0ada1db743d9eabb13a3cf412ff4662788b74")]
 [assembly: System.Reflection.AssemblyProductAttribute("Siercks.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Siercks.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

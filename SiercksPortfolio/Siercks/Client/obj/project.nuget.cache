@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xwXsusNmcZHRlOVMHappqDQjpHAOgQqkbn6vQCt36tgLWJCxjBSHy94YqRD3NciFBJoGB7I8ZxHHEpSfiQ5HgQ==",
+  "dgSpecHash": "/+zKPpVo6HmZYyCrD8oJ6+bZTTwH9WxWZLmM7bn4OSgs4CWyok1635cYQOLLiw6zuKTVMVecQBWrGFtZdc2OLA==",
   "success": true,
   "projectFilePath": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Siercks.Client.csproj",
   "expectedPackageFiles": [
@@ -28,14 +28,18 @@
     "C:\\Users\\siercks\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\siercks\\.nuget\\packages\\microsoft.jsinterop\\6.0.10\\microsoft.jsinterop.6.0.10.nupkg.sha512",
     "C:\\Users\\siercks\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.10\\microsoft.jsinterop.webassembly.6.0.10.nupkg.sha512",
-    "C:\\Users\\siercks\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
-    "C:\\Users\\siercks\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
-    "C:\\Users\\siercks\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.3\\microsoft.net.sdk.webassembly.pack.8.0.3.nupkg.sha512",
+    "C:\\Users\\siercks\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23401.1\\microsoft.net.illink.analyzers.7.0.100-1.23401.1.nupkg.sha512",
+    "C:\\Users\\siercks\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23401.1\\microsoft.net.illink.tasks.7.0.100-1.23401.1.nupkg.sha512",
+    "C:\\Users\\siercks\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.5\\microsoft.net.sdk.webassembly.pack.8.0.5.nupkg.sha512",
     "C:\\Users\\siercks\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\siercks\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\siercks\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\siercks\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\siercks\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+    "C:\\Users\\siercks\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\siercks\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\siercks\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\siercks\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\siercks\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.30\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.30.nupkg.sha512"
   ],
   "logs": []
 }

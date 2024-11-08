@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\Siercks.Client.styles.css"
     },
     {
+      "Id": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\IMG-6661alt-700.png",
+      "PackagePath": "staticwebassets\\IMG-6661alt-700.png"
+    },
+    {
       "Id": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\IMG-6661alt.png",
       "PackagePath": "staticwebassets\\IMG-6661alt.png"
     },
@@ -67,10 +71,6 @@
     {
       "Id": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
-      "Id": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\icon-192.png",
-      "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
       "Id": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\index.html",
