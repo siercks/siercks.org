@@ -1,7 +1,7 @@
 {
   "entryAssembly": "Siercks.Client",
   "resources": {
-    "hash": "sha256-hCHagsU4QM+jntpG9yf65VIjAqtSymtIJ5Es832XX5o=",
+    "hash": "sha256-ceP7WA6WTynGTxpm5mhjN/Lzis0CzEWb9Z3tHtZWDdw=",
     "runtime": {
       "dotnet.6.0.30.ca1yz2ycpm.js": "sha256-45+wyMAt9YjYwF4PikeWhYvv/KKuYEMhwoXqAPu6iQM=",
       "dotnet.timezones.blat": "sha256-YTQh+6fLXFGHBQ3xWd368q2DdX0uiUvgIBcs17i6yBI=",
@@ -200,10 +200,10 @@
       "mscorlib.dll": "sha256-sObtOnltWHJ5Stb0lWo1AOhoGbHPKNJejyhdDHyec7A=",
       "netstandard.dll": "sha256-Aw5a9ijqeRQg+StQkcNm62mYcoDAOV+3vLOyZSv+aH4=",
       "System.Private.CoreLib.dll": "sha256-xOxQU+wDIWWwnxPOoZdztT4fYsBW3koQCT/sgTPLirk=",
-      "Siercks.Client.dll": "sha256-Y5xL3pIiuDdmR2K0gG33RxI0oJmqE2JVlVlqjV5mRjo="
+      "Siercks.Client.dll": "sha256-0yhC/EDBrTIDTT1Rvx4ykcqUoBbK2s3PPThdFW6RJB4="
     },
     "pdb": {
-      "Siercks.Client.pdb": "sha256-Li8FM7uQpjm4qfvhBAT8+MOEPlk4Dtm1117vFFUTmPk="
+      "Siercks.Client.pdb": "sha256-po5kqY/a6buM/jqYxlmj53LTf/RK9wT/TV6db6YLRe0="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

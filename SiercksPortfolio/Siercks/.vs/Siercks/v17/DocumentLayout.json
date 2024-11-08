@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\pages\\projects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\pages\\projects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|solutionrelative:client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DF59475-837B-4C0B-82A4-DADC3434C80C}|Client\\Siercks.Client.csproj|c:\\users\\siercks\\documents\\github\\siercks\\siercksportfolio\\siercks\\client\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -83,13 +83,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "Client\\Shared\\NavMenu.razor",
               "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\NavMenu.razor",
               "RelativeToolTip": "Client\\Shared\\NavMenu.razor",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAABBAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-14T21:59:25.941Z",
               "EditorCaption": ""
@@ -102,19 +102,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainLayout.razor.css",
-              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\MainLayout.razor.css",
-              "RelativeDocumentMoniker": "Client\\Shared\\MainLayout.razor.css",
-              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\MainLayout.razor.css",
-              "RelativeToolTip": "Client\\Shared\\MainLayout.razor.css",
-              "ViewState": "AQIAAFcAAAAAAAAAAIBJwG8AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-17T19:18:09.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\style.css",
               "RelativeDocumentMoniker": "Client\\wwwroot\\style.css",
@@ -126,32 +114,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\Index.razor",
               "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Pages\\Index.razor",
               "RelativeToolTip": "Client\\Pages\\Index.razor",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-08T18:25:25.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "Client\\wwwroot\\index.html",
               "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\index.html",
               "RelativeToolTip": "Client\\wwwroot\\index.html",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAvAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-04-08T18:16:28.321Z"
+              "WhenOpened": "2024-04-08T18:16:28.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Projects.razor",
               "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Pages\\Projects.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\Projects.razor",
@@ -163,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\Counter.razor",
@@ -175,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\MainLayout.razor",
               "RelativeDocumentMoniker": "Client\\Shared\\MainLayout.razor",
@@ -183,7 +172,20 @@
               "RelativeToolTip": "Client\\Shared\\MainLayout.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T22:31:21.131Z"
+              "WhenOpened": "2024-03-14T22:31:21.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Client\\Shared\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\Shared\\MainLayout.razor.css",
+              "RelativeToolTip": "Client\\Shared\\MainLayout.razor.css",
+              "ViewState": "AQIAAFcAAAAAAAAAAIBJwG8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-17T19:18:09.264Z"
             },
             {
               "$type": "Document",
