@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YjfX4phVeCuDnkhRsFGWnjSBwFfnuAp5TSdzXXzmvms=",
+  "Hash": "a0uM18Nepk65iF/FWmmVRpqCDtQ/q3eDniPfhC6+F0s=",
   "Source": "Siercks.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -7862,25 +7862,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\IMG-6661alt.png",
-      "SourceId": "Siercks.Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "IMG-6661alt.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\IMG-6661alt.png"
     },
     {
       "Identity": "C:\\Users\\siercks\\Documents\\GitHub\\siercks\\SiercksPortfolio\\Siercks\\Client\\wwwroot\\IMG-6661alt-700.png",
